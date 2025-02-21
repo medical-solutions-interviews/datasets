@@ -1,0 +1,1001 @@
+job_id,title,industry,location,pay_rate,required_experience,required_skills,job_type,posting_duration,filled
+0,Data Scientist,Healthcare,Seattle,71,13,Machine Learning,Contract,54,0
+1,Product Manager,Finance,San Francisco,34,4,SQL,Full-time,63,1
+2,Data Scientist,Education,San Francisco,91,4,Machine Learning,Contract,79,1
+3,Data Scientist,Tech,Seattle,80,9,Communication,Part-time,7,1
+4,Marketing Analyst,Healthcare,Seattle,40,13,Machine Learning,Part-time,76,1
+5,Marketing Analyst,Finance,New York,94,3,Communication,Full-time,49,1
+6,HR Specialist,Finance,Chicago,94,5,Python,Contract,85,1
+7,Product Manager,Finance,San Francisco,43,6,Python,Part-time,31,1
+8,Marketing Analyst,Education,New York,22,8,Communication,Full-time,58,0
+9,Software Engineer,Education,Seattle,41,0,Communication,Full-time,61,1
+10,Product Manager,Education,New York,72,14,Machine Learning,Part-time,24,1
+11,Product Manager,Retail,Seattle,21,5,Communication,Part-time,20,1
+12,Marketing Analyst,Finance,Austin,49,6,SQL,Contract,37,0
+13,Product Manager,Healthcare,Seattle,57,2,Python,Full-time,4,1
+14,Marketing Analyst,Education,Seattle,21,7,Python,Part-time,20,0
+15,Data Scientist,Education,Seattle,83,14,Communication,Full-time,60,0
+16,HR Specialist,Finance,Chicago,79,4,Excel,Contract,24,0
+17,Data Scientist,Education,Seattle,40,14,Excel,Part-time,50,1
+18,Marketing Analyst,Retail,San Francisco,52,8,Communication,Contract,49,1
+19,Marketing Analyst,Retail,San Francisco,95,4,SQL,Full-time,51,1
+20,Data Scientist,Education,New York,77,8,Excel,Contract,36,0
+21,Software Engineer,Finance,Chicago,41,9,Communication,Contract,66,1
+22,Software Engineer,Finance,New York,68,3,SQL,Full-time,79,1
+23,Software Engineer,Finance,San Francisco,78,8,SQL,Contract,34,1
+24,Marketing Analyst,Tech,San Francisco,61,4,Machine Learning,Full-time,36,0
+25,Product Manager,Education,Austin,79,9,SQL,Part-time,6,1
+26,Marketing Analyst,Finance,Seattle,99,8,Excel,Full-time,39,1
+27,Product Manager,Retail,San Francisco,34,2,Excel,Full-time,42,1
+28,Data Scientist,Healthcare,New York,81,14,Communication,Part-time,58,0
+29,HR Specialist,Healthcare,New York,81,3,Communication,Full-time,12,0
+30,Product Manager,Finance,Seattle,66,8,SQL,Part-time,3,1
+31,Software Engineer,Healthcare,Seattle,81,9,Python,Part-time,18,1
+32,Marketing Analyst,Healthcare,Austin,70,10,Machine Learning,Full-time,40,1
+33,Data Scientist,Tech,Chicago,74,5,Python,Contract,21,1
+34,Software Engineer,Retail,New York,83,1,SQL,Contract,15,0
+35,Data Scientist,Retail,Seattle,22,6,SQL,Part-time,26,1
+36,HR Specialist,Tech,New York,70,1,Python,Contract,8,1
+37,Marketing Analyst,Tech,Seattle,26,10,Machine Learning,Contract,87,1
+38,Marketing Analyst,Healthcare,San Francisco,40,1,Python,Full-time,42,1
+39,HR Specialist,Education,New York,92,10,Communication,Part-time,44,1
+40,Marketing Analyst,Healthcare,San Francisco,58,0,Excel,Part-time,14,0
+41,Product Manager,Tech,New York,37,10,Communication,Full-time,78,1
+42,Data Scientist,Retail,Chicago,23,10,Excel,Contract,2,0
+43,Software Engineer,Healthcare,Austin,79,11,SQL,Part-time,37,1
+44,HR Specialist,Education,San Francisco,33,10,Machine Learning,Contract,69,1
+45,Product Manager,Healthcare,Seattle,28,2,Python,Part-time,38,1
+46,Software Engineer,Finance,Chicago,72,5,Machine Learning,Part-time,41,1
+47,Software Engineer,Healthcare,New York,21,7,Python,Part-time,62,1
+48,HR Specialist,Tech,San Francisco,79,8,Communication,Part-time,60,1
+49,Product Manager,Retail,New York,90,6,Communication,Contract,14,1
+50,Software Engineer,Retail,New York,63,3,Python,Contract,89,0
+51,Software Engineer,Tech,New York,27,5,Machine Learning,Contract,84,1
+52,Product Manager,Finance,Austin,66,4,Python,Contract,2,1
+53,Marketing Analyst,Tech,Austin,54,7,SQL,Full-time,70,1
+54,Software Engineer,Healthcare,Seattle,97,0,Communication,Part-time,17,1
+55,Data Scientist,Tech,San Francisco,55,0,SQL,Part-time,89,1
+56,Product Manager,Tech,Chicago,69,12,Communication,Part-time,28,0
+57,Software Engineer,Finance,Chicago,23,14,Communication,Full-time,66,1
+58,HR Specialist,Healthcare,Chicago,21,10,Excel,Contract,35,0
+59,Data Scientist,Education,New York,25,5,SQL,Part-time,5,0
+60,Software Engineer,Education,Austin,73,9,SQL,Contract,65,0
+61,Data Scientist,Retail,San Francisco,23,11,Excel,Contract,40,1
+62,Data Scientist,Tech,New York,73,1,Machine Learning,Full-time,76,1
+63,Marketing Analyst,Retail,Austin,82,4,SQL,Full-time,56,0
+64,Data Scientist,Finance,Austin,37,0,Python,Contract,36,1
+65,Marketing Analyst,Education,San Francisco,63,6,Excel,Part-time,45,1
+66,Product Manager,Tech,San Francisco,53,0,SQL,Part-time,23,0
+67,Marketing Analyst,Finance,San Francisco,93,3,Machine Learning,Full-time,47,1
+68,HR Specialist,Finance,New York,81,8,SQL,Full-time,31,1
+69,Software Engineer,Tech,Seattle,33,0,Communication,Full-time,11,1
+70,Product Manager,Finance,San Francisco,67,3,Python,Full-time,10,1
+71,Product Manager,Tech,Seattle,34,5,Excel,Full-time,67,1
+72,HR Specialist,Tech,New York,91,5,Communication,Full-time,14,1
+73,Marketing Analyst,Healthcare,Seattle,97,11,Machine Learning,Full-time,80,1
+74,Software Engineer,Retail,Chicago,81,14,Communication,Part-time,74,1
+75,Marketing Analyst,Finance,Seattle,59,12,Communication,Full-time,10,0
+76,Data Scientist,Finance,San Francisco,99,7,Machine Learning,Full-time,76,1
+77,Marketing Analyst,Healthcare,New York,72,0,Communication,Part-time,1,1
+78,Product Manager,Healthcare,San Francisco,43,6,Excel,Part-time,5,0
+79,Software Engineer,Healthcare,Chicago,45,0,SQL,Contract,20,0
+80,Marketing Analyst,Education,San Francisco,79,12,Communication,Full-time,8,1
+81,Software Engineer,Education,San Francisco,60,13,Excel,Full-time,43,1
+82,Software Engineer,Education,San Francisco,48,6,SQL,Full-time,76,1
+83,Data Scientist,Tech,Austin,34,2,SQL,Full-time,1,1
+84,Data Scientist,Finance,Chicago,64,10,Communication,Contract,57,0
+85,Product Manager,Retail,San Francisco,84,7,Excel,Part-time,64,1
+86,HR Specialist,Tech,San Francisco,90,2,Communication,Part-time,84,0
+87,Software Engineer,Finance,San Francisco,28,13,Machine Learning,Full-time,28,1
+88,HR Specialist,Finance,New York,20,13,SQL,Full-time,37,1
+89,Product Manager,Healthcare,Austin,27,12,Communication,Full-time,47,1
+90,Software Engineer,Healthcare,New York,82,0,SQL,Contract,76,1
+91,Software Engineer,Tech,Austin,30,12,Excel,Contract,37,1
+92,HR Specialist,Healthcare,San Francisco,27,12,Python,Part-time,49,1
+93,Marketing Analyst,Finance,Chicago,54,13,Communication,Full-time,44,1
+94,Data Scientist,Healthcare,Seattle,54,7,Communication,Full-time,56,1
+95,Marketing Analyst,Education,Seattle,52,2,SQL,Full-time,28,1
+96,HR Specialist,Healthcare,San Francisco,24,1,Excel,Full-time,79,1
+97,Data Scientist,Finance,New York,60,0,Machine Learning,Contract,6,1
+98,Marketing Analyst,Tech,Chicago,47,13,Excel,Part-time,61,1
+99,Data Scientist,Retail,Austin,26,2,Communication,Part-time,20,0
+100,Software Engineer,Healthcare,San Francisco,92,14,Machine Learning,Contract,78,1
+101,Marketing Analyst,Finance,Chicago,91,1,Excel,Full-time,2,1
+102,Data Scientist,Retail,Chicago,31,1,Python,Part-time,73,0
+103,Data Scientist,Retail,Austin,53,5,SQL,Part-time,37,0
+104,Data Scientist,Education,Chicago,52,11,Excel,Contract,20,0
+105,Marketing Analyst,Retail,New York,67,0,Excel,Full-time,26,1
+106,Product Manager,Finance,New York,42,1,Python,Part-time,29,1
+107,Marketing Analyst,Finance,New York,81,13,Communication,Full-time,1,1
+108,HR Specialist,Healthcare,Chicago,56,5,SQL,Part-time,35,1
+109,Marketing Analyst,Healthcare,New York,63,2,Excel,Contract,70,1
+110,Data Scientist,Healthcare,Austin,54,14,Machine Learning,Full-time,59,1
+111,Software Engineer,Retail,Chicago,84,3,Excel,Contract,69,1
+112,Marketing Analyst,Retail,Seattle,66,0,SQL,Part-time,33,1
+113,Marketing Analyst,Education,Chicago,97,7,Excel,Contract,51,1
+114,Data Scientist,Healthcare,Austin,22,12,Python,Contract,78,1
+115,Software Engineer,Tech,Seattle,20,6,Excel,Contract,12,0
+116,Software Engineer,Education,Chicago,24,6,Excel,Part-time,20,1
+117,HR Specialist,Tech,New York,33,2,Machine Learning,Full-time,53,1
+118,Marketing Analyst,Retail,San Francisco,46,9,Python,Contract,88,1
+119,Software Engineer,Education,San Francisco,28,9,Python,Full-time,43,0
+120,Software Engineer,Education,New York,98,2,Excel,Part-time,89,0
+121,Product Manager,Finance,San Francisco,34,13,Machine Learning,Full-time,50,1
+122,Product Manager,Retail,San Francisco,61,1,Excel,Contract,29,0
+123,Software Engineer,Retail,New York,96,11,Excel,Contract,57,1
+124,HR Specialist,Education,New York,70,0,SQL,Contract,39,0
+125,Software Engineer,Retail,Chicago,82,6,SQL,Contract,56,1
+126,Data Scientist,Education,Chicago,71,6,Machine Learning,Contract,43,1
+127,Marketing Analyst,Finance,New York,23,11,Communication,Contract,50,1
+128,HR Specialist,Education,Austin,42,1,SQL,Part-time,23,1
+129,Data Scientist,Retail,San Francisco,34,6,Communication,Part-time,44,0
+130,HR Specialist,Retail,Chicago,62,12,Python,Part-time,38,0
+131,Data Scientist,Education,San Francisco,48,7,SQL,Full-time,84,1
+132,Marketing Analyst,Education,Seattle,55,0,SQL,Full-time,23,1
+133,Marketing Analyst,Education,New York,32,8,Machine Learning,Part-time,45,1
+134,Product Manager,Healthcare,Austin,51,6,Communication,Full-time,52,1
+135,Data Scientist,Retail,Seattle,90,2,SQL,Full-time,80,1
+136,Product Manager,Retail,Seattle,78,7,SQL,Contract,50,1
+137,Data Scientist,Healthcare,Seattle,47,6,Machine Learning,Contract,8,1
+138,Product Manager,Education,New York,85,10,Machine Learning,Full-time,85,0
+139,Marketing Analyst,Finance,Chicago,61,14,Communication,Full-time,1,1
+140,HR Specialist,Education,New York,64,12,Python,Part-time,8,1
+141,Product Manager,Education,Chicago,81,7,Python,Full-time,29,1
+142,Data Scientist,Healthcare,Seattle,76,5,Excel,Contract,5,0
+143,Data Scientist,Retail,Seattle,25,8,SQL,Full-time,86,1
+144,Marketing Analyst,Education,Austin,47,14,Communication,Part-time,47,1
+145,Data Scientist,Retail,Chicago,47,4,SQL,Contract,34,1
+146,Software Engineer,Tech,Seattle,63,2,Communication,Contract,65,1
+147,HR Specialist,Retail,San Francisco,49,2,Communication,Contract,55,1
+148,Product Manager,Finance,Austin,81,0,Communication,Contract,43,1
+149,HR Specialist,Finance,New York,94,11,SQL,Full-time,74,0
+150,Marketing Analyst,Education,Austin,81,14,Machine Learning,Part-time,30,1
+151,Product Manager,Retail,San Francisco,20,7,SQL,Full-time,82,0
+152,Product Manager,Education,Chicago,46,1,Communication,Full-time,17,1
+153,Software Engineer,Healthcare,New York,81,2,Excel,Contract,26,1
+154,Marketing Analyst,Finance,New York,96,7,Python,Part-time,8,0
+155,Data Scientist,Education,Chicago,22,13,Communication,Contract,47,1
+156,Software Engineer,Healthcare,Austin,89,7,Excel,Full-time,76,0
+157,Software Engineer,Education,Seattle,91,13,Machine Learning,Full-time,72,1
+158,HR Specialist,Retail,Austin,46,10,Communication,Contract,89,1
+159,HR Specialist,Retail,San Francisco,28,3,Excel,Full-time,46,1
+160,HR Specialist,Retail,Seattle,81,3,Communication,Full-time,68,0
+161,Software Engineer,Retail,Austin,56,4,SQL,Contract,33,1
+162,Data Scientist,Tech,Chicago,70,5,Excel,Full-time,1,1
+163,Product Manager,Healthcare,San Francisco,63,4,SQL,Part-time,19,1
+164,HR Specialist,Healthcare,San Francisco,43,13,SQL,Contract,31,1
+165,Data Scientist,Retail,San Francisco,98,14,Excel,Part-time,80,0
+166,Marketing Analyst,Tech,Seattle,78,6,Python,Full-time,14,1
+167,HR Specialist,Retail,New York,51,1,Excel,Full-time,53,0
+168,Product Manager,Tech,Seattle,71,6,Python,Contract,48,1
+169,Marketing Analyst,Retail,Austin,81,9,Communication,Full-time,69,1
+170,Marketing Analyst,Finance,New York,77,6,Communication,Contract,62,0
+171,Product Manager,Finance,Austin,71,0,Excel,Contract,66,0
+172,HR Specialist,Education,New York,31,6,Communication,Contract,64,0
+173,Software Engineer,Retail,Seattle,58,4,Machine Learning,Contract,70,1
+174,Product Manager,Healthcare,San Francisco,21,2,SQL,Contract,63,1
+175,Product Manager,Education,Chicago,22,12,SQL,Part-time,73,1
+176,Product Manager,Finance,San Francisco,75,2,Python,Contract,33,0
+177,Marketing Analyst,Retail,Seattle,78,3,Communication,Part-time,41,0
+178,Data Scientist,Education,New York,21,12,Python,Full-time,89,1
+179,Software Engineer,Retail,San Francisco,21,11,SQL,Contract,48,0
+180,HR Specialist,Finance,Seattle,73,1,SQL,Full-time,13,1
+181,HR Specialist,Education,Austin,20,1,Communication,Contract,73,1
+182,Data Scientist,Finance,Chicago,38,0,Machine Learning,Part-time,77,1
+183,Product Manager,Tech,San Francisco,21,14,Machine Learning,Part-time,31,1
+184,Software Engineer,Finance,New York,72,4,Communication,Part-time,75,1
+185,HR Specialist,Retail,Austin,63,3,Communication,Full-time,68,0
+186,HR Specialist,Healthcare,Seattle,51,10,Python,Contract,4,0
+187,Product Manager,Finance,Chicago,89,9,Communication,Full-time,19,0
+188,Data Scientist,Healthcare,New York,51,14,Machine Learning,Part-time,70,1
+189,Software Engineer,Tech,Seattle,87,1,Communication,Full-time,82,0
+190,Data Scientist,Education,Seattle,74,2,Python,Part-time,13,1
+191,Data Scientist,Education,San Francisco,94,6,Python,Part-time,23,1
+192,Software Engineer,Healthcare,San Francisco,75,6,Python,Part-time,83,1
+193,Software Engineer,Education,New York,36,11,Python,Contract,75,1
+194,HR Specialist,Finance,Seattle,57,3,Excel,Contract,1,0
+195,HR Specialist,Healthcare,San Francisco,43,4,Communication,Part-time,88,1
+196,Software Engineer,Retail,Chicago,88,4,SQL,Full-time,54,1
+197,Marketing Analyst,Finance,Chicago,89,5,Communication,Full-time,71,0
+198,HR Specialist,Finance,Seattle,30,13,Excel,Contract,89,0
+199,Marketing Analyst,Finance,San Francisco,35,8,Python,Part-time,85,1
+200,Software Engineer,Retail,New York,92,1,Excel,Full-time,15,1
+201,HR Specialist,Tech,New York,78,4,Machine Learning,Part-time,65,1
+202,Data Scientist,Education,New York,89,11,Machine Learning,Full-time,76,1
+203,Software Engineer,Healthcare,Chicago,99,2,Communication,Contract,71,1
+204,Product Manager,Tech,San Francisco,22,3,Communication,Part-time,15,1
+205,Marketing Analyst,Healthcare,San Francisco,39,9,SQL,Part-time,21,1
+206,Software Engineer,Education,Chicago,78,5,SQL,Full-time,19,1
+207,Software Engineer,Retail,New York,55,11,Machine Learning,Full-time,60,1
+208,HR Specialist,Finance,New York,38,7,Python,Full-time,89,1
+209,HR Specialist,Finance,Seattle,86,0,Excel,Part-time,33,1
+210,HR Specialist,Retail,Austin,38,9,SQL,Contract,49,1
+211,Product Manager,Tech,San Francisco,39,13,SQL,Contract,35,1
+212,HR Specialist,Tech,San Francisco,90,7,Python,Full-time,44,1
+213,Software Engineer,Healthcare,San Francisco,71,10,Python,Contract,11,1
+214,HR Specialist,Retail,Austin,52,13,Communication,Full-time,72,1
+215,Data Scientist,Tech,Seattle,59,6,Excel,Contract,78,1
+216,HR Specialist,Retail,Austin,58,0,Python,Part-time,74,0
+217,Product Manager,Education,New York,20,1,SQL,Full-time,66,1
+218,Data Scientist,Finance,New York,30,2,SQL,Contract,46,0
+219,Software Engineer,Finance,San Francisco,76,0,Machine Learning,Part-time,9,1
+220,Software Engineer,Finance,Chicago,69,13,Python,Contract,3,1
+221,Marketing Analyst,Retail,San Francisco,42,8,Communication,Part-time,85,1
+222,Data Scientist,Retail,Chicago,50,7,Excel,Part-time,26,1
+223,Marketing Analyst,Healthcare,Austin,61,1,Communication,Contract,72,1
+224,Data Scientist,Finance,New York,26,12,SQL,Contract,48,1
+225,Data Scientist,Healthcare,Chicago,35,8,Communication,Part-time,66,1
+226,Product Manager,Finance,Austin,79,6,SQL,Part-time,70,1
+227,Marketing Analyst,Healthcare,New York,21,8,SQL,Part-time,28,0
+228,Product Manager,Healthcare,Chicago,20,5,SQL,Full-time,26,0
+229,Data Scientist,Education,San Francisco,67,5,SQL,Part-time,25,1
+230,Software Engineer,Healthcare,San Francisco,31,10,SQL,Full-time,12,1
+231,Data Scientist,Retail,San Francisco,88,13,Machine Learning,Part-time,5,0
+232,Product Manager,Healthcare,Austin,56,3,Communication,Full-time,48,0
+233,Marketing Analyst,Finance,San Francisco,51,9,Machine Learning,Part-time,37,0
+234,Marketing Analyst,Healthcare,Seattle,28,9,Machine Learning,Part-time,79,1
+235,Product Manager,Tech,New York,38,12,Python,Part-time,44,1
+236,Marketing Analyst,Finance,Austin,67,12,Python,Contract,15,1
+237,HR Specialist,Tech,San Francisco,99,1,Python,Contract,43,0
+238,Software Engineer,Finance,New York,22,6,Excel,Part-time,48,1
+239,Software Engineer,Retail,Chicago,39,4,Python,Full-time,87,0
+240,Software Engineer,Retail,San Francisco,43,10,Communication,Full-time,70,0
+241,Marketing Analyst,Retail,New York,73,5,Machine Learning,Part-time,46,1
+242,Marketing Analyst,Tech,Seattle,52,1,Communication,Contract,43,0
+243,Data Scientist,Education,Chicago,43,4,Python,Full-time,21,0
+244,Data Scientist,Finance,Seattle,94,9,Excel,Contract,23,0
+245,Software Engineer,Retail,New York,91,3,Excel,Full-time,80,0
+246,HR Specialist,Finance,Seattle,55,8,Machine Learning,Part-time,47,0
+247,Data Scientist,Tech,New York,57,5,Communication,Contract,15,1
+248,Data Scientist,Education,New York,44,1,SQL,Full-time,25,1
+249,Marketing Analyst,Tech,Seattle,37,0,Communication,Part-time,36,1
+250,HR Specialist,Finance,New York,85,4,Python,Part-time,75,1
+251,Software Engineer,Education,San Francisco,73,8,SQL,Part-time,51,0
+252,Data Scientist,Education,New York,54,5,Excel,Contract,15,1
+253,HR Specialist,Tech,Austin,99,9,Machine Learning,Contract,68,1
+254,HR Specialist,Retail,New York,80,11,Machine Learning,Part-time,21,0
+255,Software Engineer,Finance,Austin,60,6,Excel,Contract,13,1
+256,HR Specialist,Healthcare,New York,52,4,Python,Full-time,86,0
+257,HR Specialist,Healthcare,New York,87,9,Excel,Part-time,19,1
+258,HR Specialist,Tech,Seattle,52,5,Python,Part-time,34,1
+259,Data Scientist,Finance,San Francisco,33,4,SQL,Contract,78,1
+260,Software Engineer,Finance,San Francisco,40,10,Excel,Part-time,68,1
+261,HR Specialist,Tech,Chicago,67,8,Python,Full-time,52,1
+262,HR Specialist,Finance,Seattle,39,14,SQL,Contract,27,1
+263,Data Scientist,Retail,Seattle,27,5,Excel,Contract,29,0
+264,Software Engineer,Tech,San Francisco,26,10,Machine Learning,Part-time,28,0
+265,Marketing Analyst,Retail,Seattle,86,7,Excel,Part-time,35,1
+266,Data Scientist,Finance,San Francisco,36,1,Communication,Part-time,8,1
+267,Software Engineer,Tech,Seattle,52,11,Excel,Contract,16,1
+268,HR Specialist,Finance,New York,67,12,Communication,Part-time,36,1
+269,Software Engineer,Tech,San Francisco,95,8,SQL,Full-time,30,1
+270,Software Engineer,Finance,San Francisco,78,4,Excel,Part-time,18,1
+271,Software Engineer,Retail,Austin,41,6,SQL,Part-time,2,1
+272,Marketing Analyst,Retail,Seattle,49,9,SQL,Contract,49,1
+273,Software Engineer,Finance,Seattle,57,12,Python,Part-time,77,1
+274,Marketing Analyst,Tech,San Francisco,70,0,SQL,Contract,4,1
+275,HR Specialist,Healthcare,New York,73,9,SQL,Part-time,89,0
+276,Marketing Analyst,Retail,New York,27,4,Excel,Full-time,75,1
+277,HR Specialist,Retail,New York,46,11,Excel,Full-time,7,0
+278,HR Specialist,Healthcare,Seattle,46,13,Machine Learning,Contract,74,0
+279,Marketing Analyst,Finance,Austin,40,9,Python,Contract,39,0
+280,Data Scientist,Tech,San Francisco,49,13,SQL,Part-time,13,1
+281,Product Manager,Finance,Chicago,47,1,Python,Part-time,31,1
+282,Software Engineer,Education,Austin,83,11,Communication,Full-time,71,0
+283,Product Manager,Retail,Chicago,88,5,SQL,Part-time,63,1
+284,Software Engineer,Education,Austin,80,10,Python,Full-time,56,1
+285,Software Engineer,Retail,New York,67,0,Machine Learning,Contract,42,1
+286,HR Specialist,Retail,Seattle,38,2,Machine Learning,Part-time,61,0
+287,Software Engineer,Education,Chicago,23,4,SQL,Contract,42,1
+288,Software Engineer,Education,Austin,54,3,Communication,Part-time,56,1
+289,Marketing Analyst,Finance,Seattle,83,2,Machine Learning,Full-time,36,0
+290,Product Manager,Education,Chicago,68,9,Machine Learning,Contract,84,0
+291,Marketing Analyst,Finance,San Francisco,36,12,Communication,Contract,68,1
+292,Software Engineer,Finance,Austin,63,4,Python,Part-time,7,1
+293,HR Specialist,Finance,San Francisco,49,10,Machine Learning,Contract,54,1
+294,Marketing Analyst,Retail,New York,65,7,Excel,Full-time,1,1
+295,Marketing Analyst,Retail,San Francisco,25,10,Machine Learning,Contract,44,1
+296,Data Scientist,Education,San Francisco,56,3,Python,Contract,45,1
+297,Software Engineer,Retail,Austin,43,0,Python,Part-time,47,0
+298,HR Specialist,Education,New York,65,10,SQL,Contract,13,1
+299,Marketing Analyst,Retail,San Francisco,72,6,Excel,Part-time,22,1
+300,Marketing Analyst,Tech,Seattle,79,7,Python,Part-time,21,1
+301,HR Specialist,Tech,Chicago,82,2,Communication,Contract,86,1
+302,Software Engineer,Education,San Francisco,51,5,Excel,Full-time,9,1
+303,Data Scientist,Retail,New York,52,1,Excel,Part-time,26,0
+304,Marketing Analyst,Retail,San Francisco,86,6,Communication,Contract,9,1
+305,Data Scientist,Finance,Chicago,37,14,Machine Learning,Part-time,15,0
+306,Product Manager,Healthcare,New York,44,7,Communication,Full-time,10,1
+307,Software Engineer,Education,Austin,73,5,Communication,Full-time,88,0
+308,Product Manager,Healthcare,New York,77,5,Machine Learning,Part-time,42,0
+309,Product Manager,Healthcare,Austin,86,4,Machine Learning,Full-time,72,1
+310,Product Manager,Education,New York,65,7,Machine Learning,Contract,24,0
+311,Software Engineer,Retail,Chicago,43,0,Machine Learning,Contract,80,1
+312,Software Engineer,Education,Chicago,51,9,Machine Learning,Part-time,49,1
+313,HR Specialist,Healthcare,New York,66,3,Communication,Full-time,26,0
+314,Data Scientist,Retail,San Francisco,42,14,SQL,Contract,37,0
+315,Data Scientist,Tech,Chicago,85,3,SQL,Contract,68,1
+316,HR Specialist,Education,Austin,46,2,Python,Contract,50,1
+317,HR Specialist,Education,Austin,21,2,SQL,Part-time,24,1
+318,Product Manager,Retail,Seattle,36,3,SQL,Part-time,19,1
+319,HR Specialist,Tech,Austin,52,10,Communication,Contract,60,1
+320,Marketing Analyst,Tech,Seattle,28,0,Machine Learning,Contract,39,1
+321,Data Scientist,Retail,New York,62,13,Machine Learning,Full-time,74,1
+322,HR Specialist,Finance,New York,67,10,Communication,Full-time,89,1
+323,Marketing Analyst,Education,New York,58,12,SQL,Full-time,18,0
+324,Marketing Analyst,Education,San Francisco,61,10,Communication,Part-time,19,1
+325,Marketing Analyst,Healthcare,San Francisco,45,1,Python,Contract,36,1
+326,Marketing Analyst,Retail,Seattle,69,8,Machine Learning,Part-time,74,1
+327,Product Manager,Healthcare,Austin,44,9,Excel,Contract,55,1
+328,Marketing Analyst,Healthcare,Austin,43,1,Python,Full-time,69,1
+329,Product Manager,Tech,New York,32,4,Python,Full-time,47,1
+330,Product Manager,Education,Chicago,79,8,Communication,Full-time,49,1
+331,Marketing Analyst,Healthcare,San Francisco,26,8,SQL,Full-time,33,1
+332,Data Scientist,Tech,San Francisco,76,7,Machine Learning,Contract,21,1
+333,Marketing Analyst,Retail,New York,55,0,Excel,Full-time,81,1
+334,Marketing Analyst,Healthcare,San Francisco,64,0,Python,Contract,22,1
+335,Marketing Analyst,Education,New York,39,8,Excel,Contract,48,1
+336,Data Scientist,Healthcare,Seattle,84,12,SQL,Part-time,37,1
+337,Software Engineer,Retail,Austin,27,10,SQL,Full-time,15,1
+338,Software Engineer,Healthcare,Chicago,35,7,Excel,Full-time,35,1
+339,Product Manager,Education,Austin,33,9,Machine Learning,Part-time,71,0
+340,Product Manager,Tech,Austin,95,8,SQL,Contract,32,1
+341,Data Scientist,Education,Seattle,34,6,Excel,Full-time,11,0
+342,HR Specialist,Tech,San Francisco,85,2,Python,Contract,10,1
+343,Software Engineer,Finance,Chicago,51,2,Excel,Part-time,73,1
+344,Product Manager,Education,San Francisco,82,1,Excel,Contract,78,0
+345,Software Engineer,Education,Austin,70,4,Communication,Full-time,77,0
+346,Data Scientist,Retail,New York,44,11,SQL,Contract,57,1
+347,Data Scientist,Healthcare,Austin,77,11,Machine Learning,Contract,25,1
+348,HR Specialist,Tech,San Francisco,82,2,Machine Learning,Full-time,2,1
+349,HR Specialist,Tech,Austin,81,13,Communication,Full-time,64,0
+350,Data Scientist,Retail,New York,41,5,Machine Learning,Contract,35,1
+351,Product Manager,Retail,Seattle,77,1,Excel,Contract,7,1
+352,Software Engineer,Healthcare,San Francisco,77,11,Communication,Part-time,85,1
+353,Marketing Analyst,Healthcare,Austin,68,2,Python,Full-time,18,1
+354,HR Specialist,Education,San Francisco,71,4,SQL,Contract,67,1
+355,Marketing Analyst,Finance,Seattle,61,11,SQL,Full-time,42,0
+356,Product Manager,Healthcare,Austin,89,10,SQL,Part-time,39,1
+357,HR Specialist,Retail,Austin,34,10,Excel,Contract,41,1
+358,Marketing Analyst,Healthcare,San Francisco,73,0,Python,Contract,75,1
+359,Product Manager,Tech,San Francisco,79,12,Communication,Contract,24,0
+360,Software Engineer,Finance,New York,27,0,Communication,Full-time,60,1
+361,Product Manager,Education,Seattle,72,9,SQL,Part-time,46,0
+362,HR Specialist,Tech,New York,79,8,Python,Full-time,19,1
+363,Data Scientist,Tech,Austin,24,6,Python,Contract,68,1
+364,Software Engineer,Finance,San Francisco,87,0,Python,Part-time,42,1
+365,Marketing Analyst,Education,Austin,25,14,Machine Learning,Contract,32,0
+366,HR Specialist,Retail,Austin,66,11,Machine Learning,Contract,39,0
+367,Data Scientist,Education,Chicago,74,13,SQL,Full-time,36,1
+368,Product Manager,Healthcare,Chicago,59,7,Python,Contract,36,0
+369,Data Scientist,Tech,Austin,71,2,Python,Part-time,3,0
+370,HR Specialist,Healthcare,San Francisco,35,7,Communication,Contract,73,1
+371,HR Specialist,Retail,Austin,32,14,Communication,Contract,8,1
+372,Data Scientist,Healthcare,Chicago,49,4,SQL,Full-time,70,0
+373,Product Manager,Education,San Francisco,38,0,Python,Part-time,41,1
+374,Data Scientist,Healthcare,Austin,36,6,SQL,Full-time,68,0
+375,HR Specialist,Retail,Seattle,82,4,Communication,Contract,13,1
+376,HR Specialist,Retail,Seattle,38,5,Communication,Full-time,49,1
+377,Marketing Analyst,Retail,Austin,77,5,Machine Learning,Full-time,60,1
+378,Marketing Analyst,Education,San Francisco,74,7,SQL,Full-time,2,1
+379,Software Engineer,Retail,Austin,81,8,SQL,Full-time,60,1
+380,HR Specialist,Tech,Austin,42,1,Python,Contract,5,1
+381,Marketing Analyst,Retail,Chicago,28,8,Python,Contract,44,0
+382,Data Scientist,Healthcare,Seattle,31,11,Machine Learning,Part-time,27,1
+383,Product Manager,Healthcare,Chicago,20,14,Excel,Full-time,32,1
+384,Data Scientist,Healthcare,Chicago,77,10,Excel,Full-time,21,1
+385,Product Manager,Education,Austin,20,9,Excel,Part-time,8,1
+386,Marketing Analyst,Healthcare,Chicago,53,8,SQL,Full-time,72,1
+387,Software Engineer,Education,Seattle,67,12,SQL,Part-time,50,0
+388,Data Scientist,Education,Chicago,20,9,Communication,Contract,67,1
+389,Data Scientist,Retail,Seattle,35,14,SQL,Part-time,44,1
+390,Data Scientist,Tech,Chicago,80,9,SQL,Full-time,58,1
+391,Product Manager,Retail,Seattle,83,6,SQL,Part-time,3,1
+392,Marketing Analyst,Retail,Chicago,82,0,Machine Learning,Contract,86,1
+393,Data Scientist,Education,Chicago,88,6,SQL,Full-time,70,1
+394,Data Scientist,Education,San Francisco,41,9,Python,Contract,2,0
+395,Software Engineer,Healthcare,Seattle,86,4,Python,Contract,87,0
+396,Software Engineer,Healthcare,Seattle,95,5,Communication,Part-time,44,0
+397,Marketing Analyst,Retail,Seattle,45,9,Machine Learning,Contract,2,1
+398,Marketing Analyst,Finance,New York,35,6,Python,Full-time,81,0
+399,HR Specialist,Finance,Chicago,70,13,Machine Learning,Contract,35,1
+400,Software Engineer,Healthcare,Seattle,76,14,Machine Learning,Contract,87,1
+401,HR Specialist,Finance,New York,48,4,Communication,Part-time,30,1
+402,Product Manager,Healthcare,San Francisco,97,6,Machine Learning,Contract,8,1
+403,HR Specialist,Education,Seattle,88,8,SQL,Part-time,22,0
+404,Data Scientist,Retail,Seattle,66,2,Machine Learning,Part-time,44,1
+405,HR Specialist,Tech,New York,81,7,Communication,Full-time,58,1
+406,Marketing Analyst,Retail,Chicago,88,1,Communication,Full-time,36,1
+407,Product Manager,Healthcare,San Francisco,95,10,Communication,Full-time,69,1
+408,Data Scientist,Healthcare,Seattle,35,6,Python,Full-time,77,1
+409,HR Specialist,Retail,Chicago,67,12,SQL,Part-time,31,1
+410,Product Manager,Healthcare,San Francisco,58,1,Python,Contract,47,1
+411,Product Manager,Finance,Austin,52,14,Excel,Full-time,55,1
+412,Data Scientist,Finance,Austin,42,13,SQL,Full-time,80,1
+413,HR Specialist,Healthcare,San Francisco,29,3,Machine Learning,Full-time,62,0
+414,Product Manager,Healthcare,New York,88,6,Communication,Contract,30,1
+415,Product Manager,Finance,San Francisco,53,2,Excel,Full-time,55,0
+416,Software Engineer,Healthcare,San Francisco,71,1,SQL,Contract,16,1
+417,Product Manager,Healthcare,New York,29,10,Python,Part-time,12,1
+418,Software Engineer,Retail,New York,38,9,Communication,Part-time,17,0
+419,HR Specialist,Tech,Chicago,77,6,Python,Part-time,16,1
+420,HR Specialist,Finance,Chicago,20,0,SQL,Contract,12,1
+421,HR Specialist,Retail,New York,88,13,SQL,Full-time,8,1
+422,Marketing Analyst,Tech,Austin,23,14,Excel,Full-time,84,1
+423,HR Specialist,Healthcare,Austin,35,7,Machine Learning,Full-time,3,1
+424,Product Manager,Healthcare,San Francisco,43,2,Python,Full-time,16,0
+425,Data Scientist,Retail,Seattle,99,11,Excel,Full-time,30,1
+426,Software Engineer,Healthcare,San Francisco,21,11,Communication,Contract,23,0
+427,Marketing Analyst,Education,San Francisco,51,12,Machine Learning,Part-time,5,1
+428,HR Specialist,Retail,Seattle,43,1,Excel,Full-time,84,0
+429,HR Specialist,Tech,New York,31,2,Python,Part-time,65,1
+430,Data Scientist,Retail,Austin,69,4,SQL,Contract,30,1
+431,Data Scientist,Finance,San Francisco,54,10,Communication,Contract,21,0
+432,Marketing Analyst,Retail,Seattle,52,7,Python,Full-time,84,1
+433,Software Engineer,Healthcare,Chicago,52,9,Machine Learning,Contract,70,1
+434,HR Specialist,Healthcare,San Francisco,80,6,Machine Learning,Part-time,22,1
+435,Marketing Analyst,Education,Austin,70,6,SQL,Full-time,82,1
+436,Product Manager,Education,New York,62,11,SQL,Full-time,72,1
+437,Product Manager,Education,San Francisco,31,6,Communication,Part-time,32,1
+438,Marketing Analyst,Tech,San Francisco,86,14,Communication,Full-time,33,0
+439,HR Specialist,Education,Seattle,84,7,SQL,Full-time,16,0
+440,Marketing Analyst,Tech,Chicago,52,0,SQL,Part-time,76,1
+441,HR Specialist,Education,Chicago,59,3,Machine Learning,Full-time,38,1
+442,Data Scientist,Tech,New York,93,12,SQL,Full-time,14,1
+443,Marketing Analyst,Retail,Austin,62,5,Excel,Part-time,36,1
+444,HR Specialist,Retail,New York,63,8,Python,Contract,23,1
+445,Marketing Analyst,Healthcare,San Francisco,48,12,SQL,Part-time,66,1
+446,Marketing Analyst,Tech,San Francisco,32,1,Communication,Full-time,85,1
+447,HR Specialist,Finance,Chicago,31,0,Excel,Part-time,2,1
+448,HR Specialist,Healthcare,Austin,65,12,Communication,Full-time,73,1
+449,Software Engineer,Retail,Seattle,21,9,Excel,Full-time,65,1
+450,Marketing Analyst,Tech,Austin,54,11,SQL,Part-time,75,1
+451,Product Manager,Education,San Francisco,27,13,Python,Full-time,67,1
+452,Marketing Analyst,Finance,Seattle,45,1,Communication,Contract,52,0
+453,Marketing Analyst,Retail,Austin,93,6,Excel,Full-time,62,0
+454,HR Specialist,Healthcare,Austin,53,2,Machine Learning,Part-time,23,1
+455,Marketing Analyst,Tech,Seattle,26,9,SQL,Contract,26,1
+456,Marketing Analyst,Finance,San Francisco,87,1,Python,Contract,68,1
+457,Product Manager,Tech,Austin,77,13,SQL,Full-time,82,1
+458,HR Specialist,Education,Seattle,94,10,Machine Learning,Part-time,55,0
+459,Marketing Analyst,Healthcare,San Francisco,48,6,Python,Full-time,6,1
+460,Data Scientist,Tech,Seattle,55,12,Machine Learning,Full-time,35,1
+461,Software Engineer,Retail,Seattle,40,12,SQL,Part-time,22,1
+462,Product Manager,Healthcare,Austin,55,1,Excel,Part-time,43,1
+463,Marketing Analyst,Retail,San Francisco,29,2,SQL,Full-time,15,1
+464,Data Scientist,Tech,Austin,92,10,SQL,Contract,86,0
+465,Marketing Analyst,Healthcare,New York,43,6,SQL,Full-time,60,1
+466,Marketing Analyst,Retail,New York,83,13,Communication,Contract,12,1
+467,HR Specialist,Education,San Francisco,68,3,Machine Learning,Full-time,49,1
+468,HR Specialist,Education,Seattle,55,12,Machine Learning,Part-time,42,1
+469,HR Specialist,Tech,Austin,43,13,Machine Learning,Contract,38,0
+470,Data Scientist,Healthcare,Austin,42,0,Communication,Part-time,82,0
+471,Marketing Analyst,Finance,San Francisco,81,12,Excel,Part-time,45,1
+472,Software Engineer,Healthcare,San Francisco,56,13,SQL,Part-time,35,1
+473,Product Manager,Education,New York,31,4,Excel,Part-time,30,0
+474,HR Specialist,Retail,Chicago,74,11,Communication,Part-time,88,0
+475,HR Specialist,Finance,San Francisco,32,8,Machine Learning,Full-time,30,1
+476,Marketing Analyst,Tech,Chicago,42,7,SQL,Contract,78,0
+477,Marketing Analyst,Finance,San Francisco,49,11,Python,Full-time,6,1
+478,Data Scientist,Tech,Seattle,36,14,Python,Full-time,67,1
+479,Data Scientist,Finance,Seattle,81,8,Excel,Full-time,80,1
+480,HR Specialist,Tech,New York,32,9,Machine Learning,Part-time,7,0
+481,Marketing Analyst,Tech,New York,78,13,Python,Full-time,52,0
+482,Software Engineer,Finance,Chicago,38,8,Excel,Contract,14,1
+483,Product Manager,Finance,San Francisco,68,14,Communication,Full-time,73,1
+484,Marketing Analyst,Tech,Austin,31,6,Excel,Part-time,15,1
+485,Marketing Analyst,Education,New York,80,3,Excel,Contract,21,0
+486,Data Scientist,Finance,Austin,38,4,Excel,Contract,35,1
+487,Product Manager,Healthcare,Austin,95,0,SQL,Contract,66,1
+488,HR Specialist,Retail,San Francisco,28,13,Excel,Contract,2,1
+489,Marketing Analyst,Tech,Chicago,90,0,Excel,Full-time,35,1
+490,HR Specialist,Tech,San Francisco,47,2,SQL,Part-time,82,1
+491,Marketing Analyst,Retail,New York,97,12,SQL,Contract,78,1
+492,HR Specialist,Education,Austin,71,13,Communication,Contract,20,0
+493,Product Manager,Retail,San Francisco,35,7,Machine Learning,Part-time,82,1
+494,Data Scientist,Finance,San Francisco,88,13,Python,Full-time,10,0
+495,Product Manager,Retail,San Francisco,31,1,Python,Contract,25,1
+496,Software Engineer,Tech,New York,44,3,Excel,Full-time,66,1
+497,Data Scientist,Retail,Chicago,71,1,Communication,Full-time,25,0
+498,Product Manager,Healthcare,San Francisco,72,13,Excel,Full-time,54,1
+499,Software Engineer,Finance,New York,42,4,Python,Full-time,33,0
+500,Marketing Analyst,Retail,Austin,35,8,SQL,Contract,36,1
+501,Marketing Analyst,Tech,Seattle,76,0,Machine Learning,Contract,14,1
+502,HR Specialist,Finance,New York,58,4,Communication,Full-time,65,0
+503,Data Scientist,Tech,Seattle,72,13,SQL,Full-time,80,1
+504,Marketing Analyst,Education,San Francisco,61,14,Machine Learning,Part-time,54,1
+505,Data Scientist,Healthcare,San Francisco,77,8,Communication,Part-time,52,0
+506,Marketing Analyst,Education,New York,58,14,Communication,Part-time,3,0
+507,HR Specialist,Healthcare,Seattle,33,0,Python,Contract,41,1
+508,Product Manager,Retail,San Francisco,24,8,SQL,Part-time,6,1
+509,HR Specialist,Finance,Austin,54,7,Communication,Contract,25,1
+510,Software Engineer,Retail,Chicago,94,3,Communication,Contract,13,0
+511,Marketing Analyst,Healthcare,Chicago,37,11,Machine Learning,Contract,8,0
+512,Software Engineer,Healthcare,San Francisco,95,10,Python,Contract,21,1
+513,Software Engineer,Healthcare,Seattle,28,9,Excel,Part-time,68,0
+514,Data Scientist,Tech,San Francisco,93,4,Python,Full-time,25,0
+515,Marketing Analyst,Finance,Seattle,77,12,Excel,Full-time,79,0
+516,Software Engineer,Retail,Austin,36,4,SQL,Full-time,68,1
+517,Product Manager,Retail,Seattle,26,10,SQL,Part-time,45,1
+518,Software Engineer,Education,San Francisco,65,11,Communication,Full-time,60,1
+519,Product Manager,Healthcare,Austin,32,5,SQL,Part-time,12,1
+520,Data Scientist,Healthcare,New York,59,6,Communication,Part-time,32,1
+521,Software Engineer,Healthcare,Chicago,61,7,Python,Part-time,13,1
+522,HR Specialist,Retail,San Francisco,28,14,SQL,Full-time,31,0
+523,Data Scientist,Education,San Francisco,69,13,Python,Full-time,78,1
+524,Product Manager,Tech,San Francisco,46,7,Python,Full-time,20,1
+525,Data Scientist,Finance,Austin,85,10,SQL,Contract,18,1
+526,Software Engineer,Tech,New York,24,13,Python,Part-time,60,1
+527,Marketing Analyst,Retail,Seattle,48,12,SQL,Contract,63,1
+528,Marketing Analyst,Healthcare,New York,56,1,SQL,Part-time,6,0
+529,Product Manager,Finance,Austin,57,8,SQL,Full-time,32,1
+530,Product Manager,Retail,San Francisco,27,6,Excel,Part-time,43,1
+531,Marketing Analyst,Retail,Chicago,84,3,Python,Part-time,2,1
+532,Product Manager,Retail,San Francisco,36,3,Machine Learning,Contract,60,1
+533,Data Scientist,Finance,Seattle,90,10,SQL,Part-time,23,1
+534,HR Specialist,Finance,Chicago,64,7,Python,Full-time,83,0
+535,HR Specialist,Education,San Francisco,23,3,Communication,Part-time,31,1
+536,Data Scientist,Education,Chicago,55,12,SQL,Part-time,5,0
+537,HR Specialist,Tech,New York,89,14,SQL,Part-time,83,1
+538,Software Engineer,Finance,Austin,50,5,Machine Learning,Contract,34,1
+539,Data Scientist,Finance,San Francisco,38,4,Excel,Part-time,10,1
+540,Product Manager,Finance,Seattle,80,2,Excel,Part-time,89,1
+541,Data Scientist,Education,New York,73,12,SQL,Contract,2,1
+542,Marketing Analyst,Retail,San Francisco,58,13,Python,Contract,11,0
+543,Product Manager,Healthcare,New York,93,9,Communication,Contract,50,1
+544,Marketing Analyst,Education,Seattle,38,10,Communication,Contract,31,0
+545,Product Manager,Finance,San Francisco,58,1,Python,Full-time,56,1
+546,HR Specialist,Education,Seattle,86,8,SQL,Full-time,79,0
+547,Data Scientist,Tech,Chicago,64,9,Communication,Part-time,73,0
+548,Software Engineer,Finance,Seattle,32,8,Excel,Full-time,87,1
+549,Product Manager,Tech,Chicago,77,0,Python,Part-time,83,0
+550,Product Manager,Finance,San Francisco,39,9,Machine Learning,Full-time,9,1
+551,Marketing Analyst,Education,Chicago,91,2,SQL,Contract,21,1
+552,HR Specialist,Retail,San Francisco,80,7,Python,Contract,73,0
+553,Marketing Analyst,Healthcare,San Francisco,58,5,Communication,Full-time,28,1
+554,Marketing Analyst,Tech,Austin,20,4,SQL,Full-time,62,0
+555,HR Specialist,Education,San Francisco,22,4,Excel,Part-time,7,0
+556,Software Engineer,Retail,Chicago,96,5,SQL,Part-time,80,1
+557,Marketing Analyst,Education,Austin,81,14,SQL,Part-time,16,0
+558,Marketing Analyst,Tech,Austin,82,6,Excel,Contract,4,1
+559,Product Manager,Healthcare,San Francisco,44,0,Excel,Contract,4,0
+560,HR Specialist,Education,Seattle,75,8,SQL,Contract,40,0
+561,Data Scientist,Finance,Seattle,52,2,Excel,Contract,17,1
+562,Software Engineer,Retail,Austin,57,3,Python,Part-time,52,1
+563,Software Engineer,Education,San Francisco,25,9,Excel,Contract,52,0
+564,HR Specialist,Retail,Seattle,77,0,Excel,Contract,36,1
+565,Product Manager,Finance,San Francisco,63,12,SQL,Contract,38,0
+566,Product Manager,Healthcare,San Francisco,64,10,Python,Contract,50,1
+567,HR Specialist,Healthcare,Austin,51,9,Machine Learning,Full-time,63,1
+568,Product Manager,Finance,Austin,64,2,Machine Learning,Part-time,63,1
+569,Software Engineer,Retail,New York,80,1,Communication,Part-time,62,1
+570,Software Engineer,Education,Seattle,66,1,Excel,Contract,7,1
+571,Data Scientist,Finance,Seattle,40,13,Excel,Full-time,27,1
+572,HR Specialist,Tech,Seattle,99,0,Python,Part-time,86,1
+573,Marketing Analyst,Retail,Chicago,94,7,Machine Learning,Part-time,14,1
+574,Marketing Analyst,Healthcare,San Francisco,55,2,Communication,Contract,71,0
+575,Data Scientist,Finance,Austin,38,2,Python,Contract,86,1
+576,Data Scientist,Healthcare,Seattle,39,5,Excel,Part-time,5,1
+577,Product Manager,Retail,New York,76,12,Machine Learning,Part-time,55,1
+578,Data Scientist,Healthcare,Seattle,37,7,Communication,Full-time,2,1
+579,Data Scientist,Finance,San Francisco,66,12,SQL,Part-time,62,1
+580,Marketing Analyst,Retail,San Francisco,68,14,Machine Learning,Part-time,21,0
+581,Product Manager,Tech,Austin,33,8,Communication,Contract,79,0
+582,Data Scientist,Finance,Chicago,34,8,Python,Part-time,21,1
+583,Data Scientist,Education,Austin,50,3,SQL,Contract,10,1
+584,Product Manager,Finance,Seattle,20,13,Communication,Part-time,87,1
+585,HR Specialist,Retail,New York,73,4,Communication,Part-time,58,1
+586,Product Manager,Finance,Austin,22,1,Excel,Part-time,39,1
+587,Marketing Analyst,Tech,Chicago,35,10,Machine Learning,Full-time,5,1
+588,HR Specialist,Tech,Austin,76,8,Excel,Contract,65,0
+589,Software Engineer,Education,San Francisco,94,7,SQL,Full-time,13,0
+590,Product Manager,Healthcare,Seattle,31,2,Communication,Part-time,85,1
+591,Marketing Analyst,Retail,Seattle,93,10,Excel,Full-time,85,1
+592,HR Specialist,Retail,Seattle,35,11,Machine Learning,Contract,53,0
+593,Product Manager,Healthcare,Seattle,91,12,SQL,Part-time,82,1
+594,Data Scientist,Tech,Seattle,95,8,Python,Full-time,45,1
+595,Product Manager,Tech,Seattle,43,2,Excel,Full-time,32,1
+596,Software Engineer,Finance,New York,47,8,SQL,Contract,36,1
+597,Product Manager,Education,Chicago,27,1,Python,Full-time,81,1
+598,HR Specialist,Education,Seattle,55,11,Excel,Contract,60,0
+599,HR Specialist,Education,Chicago,27,9,SQL,Part-time,11,1
+600,Product Manager,Finance,Seattle,77,8,SQL,Part-time,63,1
+601,HR Specialist,Education,Austin,79,14,Excel,Full-time,21,0
+602,Data Scientist,Healthcare,Seattle,69,7,SQL,Part-time,52,1
+603,Product Manager,Finance,San Francisco,47,8,Communication,Part-time,55,1
+604,Data Scientist,Healthcare,New York,60,4,Excel,Full-time,26,1
+605,Data Scientist,Finance,Austin,83,10,SQL,Part-time,68,1
+606,Marketing Analyst,Education,Austin,46,10,Python,Full-time,34,0
+607,Product Manager,Healthcare,San Francisco,82,1,Python,Contract,52,1
+608,HR Specialist,Healthcare,Seattle,36,7,Communication,Contract,82,1
+609,Data Scientist,Healthcare,New York,92,11,Excel,Contract,52,1
+610,Marketing Analyst,Finance,Austin,52,14,SQL,Full-time,29,0
+611,Product Manager,Retail,New York,96,5,SQL,Full-time,38,1
+612,Product Manager,Education,Austin,48,7,Python,Part-time,42,1
+613,Software Engineer,Healthcare,Seattle,32,10,Communication,Part-time,21,0
+614,Software Engineer,Retail,Austin,65,4,Python,Part-time,42,0
+615,Data Scientist,Education,Austin,54,9,Python,Part-time,13,1
+616,Software Engineer,Education,Chicago,25,1,Communication,Part-time,64,1
+617,Data Scientist,Healthcare,Seattle,88,5,Excel,Full-time,17,1
+618,HR Specialist,Healthcare,San Francisco,66,4,SQL,Full-time,9,1
+619,Data Scientist,Finance,San Francisco,44,11,Excel,Contract,41,1
+620,Software Engineer,Retail,Seattle,85,12,Machine Learning,Contract,1,1
+621,HR Specialist,Retail,San Francisco,29,11,Machine Learning,Contract,2,0
+622,Software Engineer,Healthcare,Seattle,75,4,Machine Learning,Contract,60,1
+623,Data Scientist,Education,San Francisco,49,12,Communication,Full-time,48,0
+624,Marketing Analyst,Healthcare,Chicago,24,0,Python,Full-time,29,1
+625,Product Manager,Education,San Francisco,52,1,Excel,Full-time,10,0
+626,Software Engineer,Education,Austin,84,7,SQL,Part-time,58,0
+627,Data Scientist,Healthcare,Seattle,37,12,Machine Learning,Part-time,60,1
+628,HR Specialist,Tech,New York,68,13,Excel,Contract,21,0
+629,Software Engineer,Retail,New York,30,12,Machine Learning,Part-time,28,1
+630,Software Engineer,Education,Seattle,45,2,Machine Learning,Full-time,75,0
+631,Product Manager,Education,Chicago,82,9,SQL,Contract,34,1
+632,Data Scientist,Tech,San Francisco,78,2,Communication,Contract,8,1
+633,Marketing Analyst,Finance,Chicago,46,7,Python,Part-time,59,0
+634,HR Specialist,Tech,New York,68,7,Communication,Contract,86,0
+635,Data Scientist,Tech,Seattle,96,1,Excel,Part-time,72,1
+636,HR Specialist,Education,Seattle,52,7,Communication,Part-time,49,1
+637,Software Engineer,Retail,Chicago,20,10,Excel,Contract,79,1
+638,Product Manager,Tech,Chicago,40,12,Excel,Part-time,17,1
+639,Product Manager,Finance,San Francisco,74,12,Python,Part-time,60,1
+640,Marketing Analyst,Healthcare,Austin,25,0,SQL,Part-time,87,0
+641,Product Manager,Tech,Austin,88,5,Python,Part-time,88,1
+642,Software Engineer,Tech,San Francisco,24,7,Communication,Contract,45,1
+643,Marketing Analyst,Finance,Austin,22,2,Excel,Full-time,83,1
+644,Data Scientist,Retail,New York,72,7,Machine Learning,Full-time,69,1
+645,Product Manager,Tech,Austin,42,11,Machine Learning,Part-time,32,1
+646,Marketing Analyst,Tech,San Francisco,72,0,Excel,Part-time,44,1
+647,Software Engineer,Retail,Austin,56,10,Python,Part-time,65,1
+648,HR Specialist,Finance,Seattle,93,10,SQL,Full-time,87,1
+649,HR Specialist,Tech,Chicago,93,8,Python,Part-time,8,1
+650,Software Engineer,Retail,New York,36,12,Excel,Contract,77,0
+651,Software Engineer,Tech,Seattle,97,10,Excel,Contract,72,0
+652,HR Specialist,Healthcare,Seattle,92,12,SQL,Contract,87,1
+653,Marketing Analyst,Education,San Francisco,20,8,Communication,Full-time,43,1
+654,HR Specialist,Healthcare,Chicago,70,4,Communication,Part-time,1,0
+655,Software Engineer,Tech,Chicago,64,9,SQL,Part-time,51,0
+656,Product Manager,Finance,New York,96,3,Communication,Part-time,24,0
+657,Data Scientist,Education,San Francisco,23,14,Machine Learning,Full-time,24,0
+658,Product Manager,Healthcare,New York,81,10,Communication,Full-time,17,1
+659,Product Manager,Retail,Austin,84,5,Communication,Full-time,5,1
+660,Software Engineer,Finance,Seattle,51,11,Communication,Full-time,20,1
+661,HR Specialist,Healthcare,New York,53,6,Machine Learning,Contract,21,1
+662,Marketing Analyst,Retail,Seattle,91,4,Communication,Full-time,58,0
+663,Product Manager,Tech,San Francisco,58,10,Machine Learning,Full-time,31,0
+664,HR Specialist,Retail,Austin,45,12,SQL,Full-time,11,1
+665,Marketing Analyst,Healthcare,San Francisco,53,9,Python,Part-time,52,1
+666,Product Manager,Healthcare,Austin,73,8,SQL,Part-time,15,1
+667,Marketing Analyst,Tech,Austin,22,2,Python,Part-time,83,0
+668,HR Specialist,Retail,Seattle,69,14,SQL,Contract,7,1
+669,Data Scientist,Retail,San Francisco,31,6,Python,Contract,28,1
+670,HR Specialist,Tech,San Francisco,84,9,Python,Full-time,51,1
+671,Software Engineer,Retail,New York,73,9,Excel,Part-time,58,1
+672,Marketing Analyst,Tech,San Francisco,24,10,Python,Contract,5,1
+673,Data Scientist,Finance,New York,76,4,Python,Part-time,5,1
+674,Marketing Analyst,Healthcare,Chicago,36,13,Excel,Contract,8,0
+675,Marketing Analyst,Finance,Chicago,66,6,Communication,Contract,64,0
+676,Product Manager,Education,Chicago,42,14,Communication,Full-time,10,0
+677,Software Engineer,Education,San Francisco,98,1,Excel,Full-time,38,1
+678,Marketing Analyst,Education,San Francisco,33,3,Machine Learning,Contract,81,1
+679,HR Specialist,Tech,New York,85,1,Python,Full-time,8,1
+680,HR Specialist,Retail,Austin,94,13,Python,Contract,25,0
+681,Product Manager,Finance,New York,70,12,Excel,Contract,73,1
+682,Software Engineer,Finance,Chicago,57,12,Excel,Part-time,66,1
+683,Software Engineer,Finance,New York,83,11,Machine Learning,Full-time,79,1
+684,HR Specialist,Finance,Austin,57,6,Communication,Full-time,50,1
+685,Data Scientist,Education,San Francisco,69,1,SQL,Full-time,67,1
+686,Product Manager,Finance,New York,49,12,Communication,Part-time,49,1
+687,Product Manager,Retail,Chicago,98,13,Python,Part-time,36,0
+688,HR Specialist,Education,Chicago,70,10,Excel,Part-time,68,1
+689,HR Specialist,Finance,San Francisco,82,0,Machine Learning,Full-time,78,0
+690,Data Scientist,Tech,New York,71,8,Communication,Full-time,41,0
+691,Data Scientist,Healthcare,Austin,57,0,Machine Learning,Full-time,89,0
+692,Software Engineer,Healthcare,San Francisco,98,7,Communication,Part-time,62,1
+693,Product Manager,Healthcare,New York,49,14,Python,Part-time,10,1
+694,Product Manager,Education,Seattle,70,1,SQL,Contract,21,1
+695,HR Specialist,Finance,Chicago,24,11,Machine Learning,Part-time,36,0
+696,Software Engineer,Education,Austin,48,7,Machine Learning,Contract,12,1
+697,Product Manager,Retail,Austin,23,12,SQL,Full-time,2,1
+698,Software Engineer,Tech,Austin,29,2,Machine Learning,Part-time,13,1
+699,Software Engineer,Tech,Chicago,75,5,Machine Learning,Full-time,53,1
+700,HR Specialist,Healthcare,New York,36,2,Communication,Full-time,32,0
+701,Software Engineer,Healthcare,San Francisco,93,13,Communication,Full-time,16,1
+702,Data Scientist,Healthcare,New York,36,6,SQL,Full-time,32,1
+703,Data Scientist,Finance,San Francisco,88,9,Python,Part-time,32,0
+704,Marketing Analyst,Retail,Austin,53,8,Machine Learning,Full-time,11,1
+705,HR Specialist,Retail,New York,25,1,Python,Contract,10,1
+706,Marketing Analyst,Retail,Austin,72,14,SQL,Part-time,15,1
+707,Data Scientist,Retail,Seattle,85,11,SQL,Full-time,17,0
+708,Marketing Analyst,Healthcare,Austin,96,11,Communication,Part-time,40,0
+709,HR Specialist,Tech,Austin,62,14,Machine Learning,Contract,18,0
+710,HR Specialist,Healthcare,San Francisco,94,13,Excel,Full-time,55,1
+711,Software Engineer,Retail,Seattle,42,4,SQL,Contract,73,1
+712,Product Manager,Healthcare,Austin,74,12,Machine Learning,Full-time,25,0
+713,Software Engineer,Retail,Austin,99,5,Python,Contract,59,1
+714,HR Specialist,Education,Seattle,94,3,Communication,Full-time,78,1
+715,Data Scientist,Tech,Seattle,35,3,Python,Part-time,89,0
+716,Data Scientist,Education,New York,27,3,SQL,Full-time,22,1
+717,Software Engineer,Finance,San Francisco,23,1,SQL,Part-time,30,1
+718,HR Specialist,Healthcare,Seattle,23,3,Python,Full-time,84,0
+719,Data Scientist,Finance,Seattle,75,10,SQL,Full-time,85,0
+720,HR Specialist,Healthcare,Chicago,44,0,Machine Learning,Contract,44,1
+721,Data Scientist,Education,Seattle,86,11,SQL,Contract,32,1
+722,HR Specialist,Retail,San Francisco,86,5,Communication,Contract,51,1
+723,Marketing Analyst,Retail,Austin,46,0,Machine Learning,Full-time,46,1
+724,HR Specialist,Healthcare,Austin,51,9,Excel,Full-time,21,0
+725,HR Specialist,Retail,Austin,69,5,SQL,Full-time,32,0
+726,Software Engineer,Education,Austin,80,0,SQL,Part-time,39,1
+727,Marketing Analyst,Retail,Chicago,70,5,Communication,Part-time,12,0
+728,Product Manager,Education,Seattle,38,9,Communication,Full-time,47,0
+729,Software Engineer,Finance,Austin,40,7,Python,Contract,18,1
+730,Product Manager,Education,New York,24,10,Python,Contract,21,1
+731,Data Scientist,Tech,Austin,61,1,Python,Contract,13,1
+732,Product Manager,Tech,Seattle,80,1,Communication,Full-time,21,1
+733,HR Specialist,Tech,Austin,41,13,Python,Contract,8,0
+734,Product Manager,Healthcare,Chicago,40,14,Python,Full-time,46,1
+735,Software Engineer,Healthcare,San Francisco,89,12,Excel,Part-time,7,0
+736,Software Engineer,Healthcare,San Francisco,20,11,Python,Contract,23,1
+737,Product Manager,Education,Seattle,24,3,SQL,Part-time,75,1
+738,Software Engineer,Healthcare,San Francisco,31,10,Communication,Contract,86,1
+739,Software Engineer,Finance,San Francisco,65,2,Machine Learning,Full-time,22,1
+740,Product Manager,Tech,New York,53,3,Excel,Full-time,89,1
+741,Marketing Analyst,Education,Seattle,68,12,Communication,Full-time,22,0
+742,Marketing Analyst,Tech,Seattle,97,11,Communication,Full-time,29,1
+743,Data Scientist,Healthcare,San Francisco,64,6,SQL,Contract,13,1
+744,Software Engineer,Education,San Francisco,46,12,Python,Part-time,82,0
+745,Product Manager,Retail,San Francisco,92,10,SQL,Full-time,2,1
+746,Software Engineer,Finance,Chicago,45,0,Python,Contract,29,1
+747,HR Specialist,Healthcare,Austin,66,5,Python,Part-time,85,0
+748,Software Engineer,Healthcare,Chicago,75,14,Communication,Full-time,79,1
+749,Software Engineer,Finance,Seattle,82,14,Python,Part-time,52,1
+750,Marketing Analyst,Finance,New York,67,2,Excel,Full-time,27,1
+751,Product Manager,Retail,Austin,80,10,Excel,Part-time,50,1
+752,Software Engineer,Healthcare,New York,45,9,Excel,Part-time,79,1
+753,Marketing Analyst,Healthcare,Seattle,55,6,Communication,Full-time,23,1
+754,Data Scientist,Tech,Seattle,20,9,SQL,Contract,88,1
+755,Marketing Analyst,Education,New York,27,1,Machine Learning,Part-time,44,0
+756,Marketing Analyst,Education,New York,71,13,Python,Full-time,77,1
+757,Marketing Analyst,Tech,New York,98,1,Machine Learning,Part-time,22,1
+758,Software Engineer,Education,Seattle,66,12,SQL,Part-time,43,0
+759,Software Engineer,Finance,San Francisco,75,3,SQL,Contract,37,1
+760,Data Scientist,Education,New York,33,0,Communication,Part-time,61,1
+761,HR Specialist,Education,Austin,47,2,Excel,Part-time,56,0
+762,HR Specialist,Tech,Seattle,97,12,Excel,Full-time,3,1
+763,HR Specialist,Retail,Chicago,21,8,SQL,Full-time,63,1
+764,Data Scientist,Education,Chicago,45,6,Communication,Contract,19,1
+765,HR Specialist,Education,Austin,33,14,Communication,Part-time,23,0
+766,HR Specialist,Retail,San Francisco,78,6,Python,Part-time,29,0
+767,Marketing Analyst,Tech,New York,75,12,Excel,Part-time,30,1
+768,Software Engineer,Retail,Seattle,26,12,SQL,Contract,39,1
+769,Software Engineer,Tech,New York,22,10,Machine Learning,Part-time,25,0
+770,Marketing Analyst,Finance,Seattle,42,3,Excel,Full-time,8,1
+771,Marketing Analyst,Tech,Chicago,37,1,Python,Contract,58,0
+772,Marketing Analyst,Finance,New York,57,14,Communication,Full-time,16,1
+773,Software Engineer,Finance,Austin,34,13,SQL,Full-time,72,1
+774,HR Specialist,Tech,San Francisco,83,3,Excel,Contract,1,1
+775,Marketing Analyst,Healthcare,Austin,47,5,Machine Learning,Full-time,5,0
+776,Data Scientist,Tech,San Francisco,93,10,Python,Part-time,3,1
+777,Marketing Analyst,Education,New York,58,10,Python,Contract,65,0
+778,Product Manager,Education,New York,76,2,Excel,Full-time,4,1
+779,Marketing Analyst,Healthcare,San Francisco,36,0,Machine Learning,Part-time,64,1
+780,Software Engineer,Finance,Chicago,63,13,Python,Part-time,89,0
+781,Marketing Analyst,Healthcare,Seattle,44,11,SQL,Full-time,10,0
+782,Product Manager,Education,Austin,36,7,Python,Part-time,21,1
+783,Data Scientist,Healthcare,Austin,32,11,Machine Learning,Contract,46,1
+784,HR Specialist,Tech,Austin,44,12,Communication,Full-time,27,1
+785,Marketing Analyst,Healthcare,New York,87,4,Communication,Part-time,66,0
+786,Product Manager,Finance,Austin,29,14,Excel,Part-time,41,1
+787,Product Manager,Tech,Seattle,86,4,Machine Learning,Full-time,13,1
+788,Data Scientist,Retail,Seattle,37,10,Python,Full-time,9,1
+789,Software Engineer,Education,San Francisco,53,3,Python,Full-time,36,1
+790,Marketing Analyst,Education,New York,27,5,Communication,Full-time,86,1
+791,Product Manager,Healthcare,Seattle,59,2,Communication,Contract,58,1
+792,Data Scientist,Tech,Chicago,61,8,SQL,Full-time,54,1
+793,HR Specialist,Retail,New York,60,4,Communication,Contract,12,1
+794,Product Manager,Tech,New York,25,2,SQL,Contract,81,1
+795,Data Scientist,Education,Seattle,71,10,Python,Full-time,78,0
+796,Software Engineer,Tech,Chicago,45,0,SQL,Contract,14,1
+797,Software Engineer,Retail,San Francisco,83,9,SQL,Full-time,34,1
+798,Product Manager,Healthcare,Seattle,78,11,Excel,Full-time,53,1
+799,Product Manager,Finance,Chicago,75,5,Communication,Part-time,20,0
+800,Marketing Analyst,Tech,New York,78,14,SQL,Full-time,75,0
+801,Data Scientist,Finance,Chicago,89,1,Python,Part-time,16,1
+802,Product Manager,Education,New York,52,12,Machine Learning,Contract,70,0
+803,Marketing Analyst,Healthcare,Seattle,72,2,SQL,Part-time,56,1
+804,Marketing Analyst,Healthcare,Seattle,41,0,Communication,Contract,83,0
+805,Product Manager,Tech,Austin,40,8,Excel,Full-time,58,0
+806,Software Engineer,Healthcare,Austin,89,7,Python,Contract,4,0
+807,Data Scientist,Tech,Austin,89,11,Excel,Contract,4,0
+808,Data Scientist,Tech,Seattle,23,1,Machine Learning,Full-time,20,1
+809,Software Engineer,Finance,San Francisco,94,14,SQL,Contract,10,0
+810,Product Manager,Healthcare,Seattle,81,11,SQL,Full-time,24,1
+811,Data Scientist,Tech,Chicago,81,10,Communication,Part-time,26,1
+812,Product Manager,Finance,Seattle,43,7,SQL,Full-time,37,1
+813,Product Manager,Retail,Seattle,74,11,Python,Full-time,85,1
+814,Marketing Analyst,Finance,New York,28,13,Machine Learning,Contract,54,1
+815,Software Engineer,Finance,New York,22,8,Excel,Part-time,21,1
+816,Product Manager,Tech,New York,50,0,Machine Learning,Full-time,74,0
+817,HR Specialist,Education,Seattle,59,12,SQL,Part-time,38,1
+818,Software Engineer,Education,San Francisco,55,4,Excel,Part-time,46,1
+819,Data Scientist,Education,Chicago,43,7,Communication,Contract,4,1
+820,Marketing Analyst,Finance,Chicago,25,14,Machine Learning,Full-time,60,1
+821,Data Scientist,Tech,San Francisco,85,10,Excel,Contract,57,1
+822,Data Scientist,Healthcare,San Francisco,94,13,Excel,Full-time,45,1
+823,Software Engineer,Finance,Chicago,23,1,Excel,Part-time,20,1
+824,Data Scientist,Finance,Austin,98,3,Python,Full-time,17,1
+825,Product Manager,Tech,New York,25,6,Machine Learning,Full-time,71,0
+826,Data Scientist,Retail,New York,70,2,Excel,Part-time,4,1
+827,Marketing Analyst,Finance,Chicago,81,12,Machine Learning,Part-time,14,0
+828,Marketing Analyst,Retail,San Francisco,76,11,Excel,Full-time,3,1
+829,HR Specialist,Retail,Austin,85,4,Communication,Contract,88,1
+830,Marketing Analyst,Education,Chicago,98,7,Communication,Full-time,80,0
+831,Data Scientist,Tech,New York,94,11,Communication,Part-time,58,0
+832,Marketing Analyst,Retail,Seattle,27,9,SQL,Contract,55,0
+833,Software Engineer,Tech,San Francisco,45,2,Excel,Part-time,4,1
+834,Marketing Analyst,Education,Seattle,70,3,SQL,Part-time,24,1
+835,Product Manager,Tech,Chicago,64,13,Machine Learning,Contract,34,1
+836,Software Engineer,Finance,New York,63,14,SQL,Part-time,30,1
+837,HR Specialist,Retail,Austin,24,8,Machine Learning,Part-time,82,1
+838,Product Manager,Tech,Seattle,89,13,Machine Learning,Part-time,19,1
+839,Data Scientist,Healthcare,Austin,45,13,Machine Learning,Part-time,31,1
+840,Data Scientist,Tech,New York,87,6,SQL,Part-time,60,1
+841,Data Scientist,Retail,Seattle,38,0,Excel,Part-time,60,1
+842,Product Manager,Education,Austin,39,13,SQL,Part-time,19,0
+843,Product Manager,Education,Austin,31,11,Excel,Part-time,49,1
+844,Product Manager,Retail,Seattle,66,3,Excel,Part-time,63,1
+845,Software Engineer,Finance,New York,20,3,Machine Learning,Full-time,83,0
+846,Software Engineer,Finance,Austin,33,8,SQL,Full-time,22,1
+847,Data Scientist,Education,Chicago,83,5,Excel,Part-time,24,0
+848,Marketing Analyst,Education,Seattle,57,8,Communication,Full-time,76,0
+849,Data Scientist,Retail,San Francisco,56,11,Excel,Contract,30,1
+850,HR Specialist,Finance,San Francisco,30,14,Communication,Full-time,58,0
+851,Software Engineer,Education,New York,96,5,SQL,Part-time,31,1
+852,Product Manager,Finance,Chicago,22,5,SQL,Part-time,64,1
+853,Software Engineer,Education,Austin,52,4,SQL,Full-time,19,0
+854,Product Manager,Tech,San Francisco,25,4,Excel,Part-time,48,1
+855,HR Specialist,Healthcare,New York,69,1,Python,Contract,45,0
+856,HR Specialist,Tech,Chicago,29,7,Excel,Contract,55,1
+857,Software Engineer,Education,Chicago,24,7,Excel,Part-time,55,1
+858,Product Manager,Healthcare,New York,42,10,Machine Learning,Contract,18,0
+859,HR Specialist,Healthcare,New York,29,12,Machine Learning,Contract,63,0
+860,Data Scientist,Education,Austin,63,0,Excel,Full-time,47,1
+861,Data Scientist,Education,New York,21,7,Communication,Contract,75,1
+862,Product Manager,Finance,Austin,32,4,Machine Learning,Full-time,57,0
+863,Software Engineer,Education,Austin,59,1,Excel,Part-time,45,1
+864,HR Specialist,Retail,Seattle,21,13,Python,Full-time,33,1
+865,Software Engineer,Education,Chicago,84,1,Communication,Part-time,17,1
+866,Data Scientist,Retail,Chicago,82,13,SQL,Part-time,70,1
+867,HR Specialist,Education,Chicago,92,14,Excel,Part-time,4,1
+868,Software Engineer,Finance,Seattle,36,14,Excel,Part-time,20,1
+869,Marketing Analyst,Retail,Austin,28,5,Communication,Part-time,47,1
+870,Product Manager,Tech,Austin,94,10,Machine Learning,Full-time,15,1
+871,Product Manager,Retail,New York,34,12,Machine Learning,Part-time,70,0
+872,Marketing Analyst,Finance,Seattle,43,8,Machine Learning,Contract,47,1
+873,Data Scientist,Retail,New York,57,0,SQL,Contract,78,1
+874,HR Specialist,Education,Seattle,54,11,Communication,Part-time,75,1
+875,Product Manager,Education,New York,68,5,Communication,Contract,9,1
+876,Marketing Analyst,Finance,San Francisco,88,8,Machine Learning,Full-time,16,1
+877,Marketing Analyst,Healthcare,Chicago,81,7,Machine Learning,Full-time,69,1
+878,Data Scientist,Education,Chicago,79,10,Python,Part-time,61,1
+879,Data Scientist,Tech,Austin,69,5,Python,Part-time,10,1
+880,Software Engineer,Finance,San Francisco,97,2,Excel,Part-time,50,0
+881,Product Manager,Retail,Chicago,94,7,Excel,Contract,3,1
+882,Software Engineer,Retail,Austin,28,8,Communication,Contract,77,1
+883,Marketing Analyst,Tech,San Francisco,53,0,Communication,Full-time,70,0
+884,HR Specialist,Education,Chicago,95,11,SQL,Contract,81,1
+885,HR Specialist,Finance,New York,54,8,SQL,Full-time,51,1
+886,Data Scientist,Tech,Seattle,20,13,Python,Contract,19,1
+887,HR Specialist,Education,San Francisco,59,14,Excel,Full-time,42,0
+888,HR Specialist,Finance,Austin,83,5,Python,Part-time,35,0
+889,HR Specialist,Retail,San Francisco,41,5,Python,Contract,46,1
+890,Marketing Analyst,Finance,Austin,79,11,Excel,Full-time,26,0
+891,HR Specialist,Healthcare,San Francisco,83,3,SQL,Contract,69,1
+892,HR Specialist,Finance,Austin,91,0,Excel,Part-time,64,1
+893,HR Specialist,Healthcare,Chicago,30,9,Machine Learning,Full-time,37,0
+894,Software Engineer,Finance,New York,33,7,Machine Learning,Contract,84,1
+895,Marketing Analyst,Healthcare,Chicago,79,1,Machine Learning,Contract,49,1
+896,Data Scientist,Retail,New York,49,11,Communication,Part-time,21,1
+897,Software Engineer,Education,Chicago,54,0,SQL,Part-time,74,1
+898,Product Manager,Healthcare,Chicago,56,1,SQL,Full-time,64,1
+899,Marketing Analyst,Healthcare,San Francisco,24,0,Communication,Contract,5,1
+900,Marketing Analyst,Retail,Seattle,97,0,Python,Contract,70,1
+901,Product Manager,Healthcare,Austin,45,8,Machine Learning,Part-time,4,1
+902,Product Manager,Tech,Austin,81,12,Machine Learning,Part-time,39,1
+903,Product Manager,Retail,Austin,23,13,Python,Full-time,35,1
+904,Data Scientist,Tech,New York,61,0,Excel,Contract,1,1
+905,HR Specialist,Retail,Austin,37,12,Excel,Contract,24,1
+906,Marketing Analyst,Healthcare,Austin,59,3,SQL,Full-time,57,0
+907,HR Specialist,Tech,San Francisco,91,9,Communication,Full-time,70,1
+908,HR Specialist,Healthcare,Chicago,58,5,SQL,Part-time,41,0
+909,Product Manager,Retail,Austin,33,6,Excel,Part-time,54,1
+910,Data Scientist,Healthcare,Seattle,51,1,Python,Full-time,46,1
+911,Software Engineer,Tech,Austin,70,5,SQL,Full-time,60,1
+912,Data Scientist,Tech,New York,57,6,Machine Learning,Contract,60,1
+913,HR Specialist,Healthcare,New York,42,9,Machine Learning,Full-time,57,1
+914,Data Scientist,Finance,New York,82,13,Python,Full-time,31,1
+915,Product Manager,Retail,Austin,34,9,Excel,Contract,84,1
+916,Software Engineer,Retail,San Francisco,44,1,Machine Learning,Full-time,24,1
+917,Product Manager,Healthcare,Seattle,36,14,Machine Learning,Part-time,89,1
+918,Software Engineer,Finance,Austin,85,1,Communication,Part-time,36,1
+919,HR Specialist,Tech,San Francisco,97,9,SQL,Contract,85,0
+920,Software Engineer,Education,San Francisco,72,6,Excel,Full-time,30,1
+921,Software Engineer,Education,Austin,70,11,SQL,Part-time,24,1
+922,Software Engineer,Healthcare,Austin,58,0,Excel,Part-time,30,1
+923,Data Scientist,Finance,San Francisco,70,7,Machine Learning,Part-time,86,0
+924,Data Scientist,Finance,San Francisco,89,10,Communication,Part-time,7,1
+925,HR Specialist,Retail,San Francisco,25,12,SQL,Full-time,35,0
+926,Software Engineer,Tech,Austin,86,2,Machine Learning,Full-time,55,1
+927,Marketing Analyst,Finance,San Francisco,26,10,Excel,Full-time,14,1
+928,HR Specialist,Education,New York,70,5,SQL,Full-time,10,1
+929,Software Engineer,Tech,Austin,91,8,SQL,Part-time,80,0
+930,Software Engineer,Tech,New York,61,5,Machine Learning,Contract,16,1
+931,Data Scientist,Healthcare,Chicago,83,8,SQL,Contract,54,1
+932,HR Specialist,Finance,Austin,34,6,Communication,Part-time,89,1
+933,Software Engineer,Healthcare,Chicago,48,14,Communication,Part-time,77,1
+934,Software Engineer,Finance,San Francisco,52,8,Machine Learning,Contract,70,0
+935,HR Specialist,Retail,San Francisco,46,1,Excel,Contract,44,1
+936,Marketing Analyst,Healthcare,Seattle,55,11,Machine Learning,Part-time,73,1
+937,HR Specialist,Healthcare,San Francisco,48,7,Communication,Part-time,45,1
+938,HR Specialist,Education,Chicago,57,7,Python,Full-time,56,0
+939,Marketing Analyst,Healthcare,San Francisco,76,1,Python,Full-time,84,1
+940,HR Specialist,Finance,Austin,46,11,SQL,Contract,82,1
+941,Software Engineer,Education,San Francisco,74,13,SQL,Part-time,57,1
+942,HR Specialist,Healthcare,Seattle,52,3,Python,Contract,21,0
+943,Marketing Analyst,Healthcare,San Francisco,87,13,Communication,Full-time,68,1
+944,Product Manager,Retail,Chicago,85,14,SQL,Full-time,50,0
+945,HR Specialist,Healthcare,Chicago,29,10,Machine Learning,Contract,33,1
+946,Data Scientist,Tech,San Francisco,24,14,Machine Learning,Full-time,7,0
+947,Software Engineer,Education,Chicago,93,6,Communication,Part-time,70,1
+948,Software Engineer,Tech,Chicago,57,10,SQL,Contract,15,1
+949,Data Scientist,Education,Seattle,32,3,Machine Learning,Part-time,82,1
+950,Data Scientist,Retail,Austin,50,3,SQL,Part-time,32,0
+951,HR Specialist,Healthcare,Seattle,66,5,SQL,Full-time,75,1
+952,Data Scientist,Healthcare,New York,71,9,Machine Learning,Part-time,20,1
+953,Product Manager,Healthcare,Seattle,75,5,Python,Contract,88,1
+954,Marketing Analyst,Education,San Francisco,34,9,Machine Learning,Part-time,15,1
+955,Data Scientist,Healthcare,Austin,48,14,Communication,Part-time,48,0
+956,Data Scientist,Tech,San Francisco,27,2,Excel,Part-time,71,1
+957,Product Manager,Healthcare,New York,24,14,Machine Learning,Part-time,21,0
+958,Software Engineer,Retail,Austin,48,8,SQL,Part-time,42,1
+959,Software Engineer,Tech,Chicago,66,11,SQL,Full-time,26,0
+960,HR Specialist,Healthcare,Seattle,87,9,Machine Learning,Contract,14,1
+961,Product Manager,Healthcare,San Francisco,95,13,Excel,Full-time,57,1
+962,Marketing Analyst,Finance,New York,64,10,Machine Learning,Contract,37,1
+963,Marketing Analyst,Education,Chicago,21,1,Excel,Contract,58,1
+964,Product Manager,Tech,Seattle,46,5,Excel,Contract,21,1
+965,Marketing Analyst,Finance,Chicago,55,11,Communication,Contract,82,1
+966,Software Engineer,Retail,Seattle,55,6,SQL,Contract,69,0
+967,Marketing Analyst,Education,Austin,45,11,SQL,Part-time,3,1
+968,Marketing Analyst,Tech,Chicago,62,12,Excel,Full-time,87,0
+969,Product Manager,Healthcare,Chicago,46,8,SQL,Full-time,37,1
+970,Product Manager,Tech,Chicago,88,12,Python,Part-time,88,1
+971,Marketing Analyst,Healthcare,Austin,39,2,Excel,Contract,49,1
+972,Data Scientist,Education,New York,30,9,SQL,Full-time,19,0
+973,Product Manager,Healthcare,Seattle,93,2,Python,Part-time,89,1
+974,HR Specialist,Retail,Chicago,57,6,Communication,Part-time,85,1
+975,HR Specialist,Healthcare,Austin,25,13,SQL,Full-time,12,1
+976,Software Engineer,Retail,New York,91,3,Python,Full-time,61,1
+977,Marketing Analyst,Education,Seattle,42,12,Machine Learning,Contract,41,1
+978,Data Scientist,Education,Austin,66,7,Machine Learning,Contract,33,0
+979,Software Engineer,Tech,Seattle,65,12,Python,Full-time,50,1
+980,Marketing Analyst,Retail,Chicago,31,6,Excel,Contract,68,1
+981,Product Manager,Retail,New York,32,4,Excel,Part-time,71,0
+982,HR Specialist,Finance,Austin,81,6,SQL,Contract,86,0
+983,Data Scientist,Finance,New York,79,2,Machine Learning,Contract,33,0
+984,HR Specialist,Finance,Chicago,62,11,Excel,Part-time,81,1
+985,Product Manager,Healthcare,New York,95,1,Excel,Contract,24,1
+986,Marketing Analyst,Finance,New York,87,5,Machine Learning,Part-time,61,0
+987,Product Manager,Retail,San Francisco,24,1,Communication,Contract,61,1
+988,Product Manager,Healthcare,New York,56,2,Excel,Full-time,28,0
+989,HR Specialist,Education,Seattle,91,5,Python,Contract,58,1
+990,Data Scientist,Tech,Austin,50,4,SQL,Full-time,43,0
+991,Product Manager,Finance,San Francisco,28,7,Excel,Full-time,41,1
+992,HR Specialist,Education,Austin,70,8,Excel,Full-time,39,1
+993,Data Scientist,Retail,Austin,48,10,Communication,Full-time,86,1
+994,Marketing Analyst,Tech,Chicago,97,2,Python,Full-time,49,1
+995,Marketing Analyst,Education,Chicago,59,11,SQL,Part-time,17,1
+996,Software Engineer,Tech,San Francisco,60,9,Excel,Part-time,70,1
+997,HR Specialist,Finance,Chicago,30,2,SQL,Part-time,70,0
+998,Data Scientist,Retail,Chicago,42,2,Machine Learning,Full-time,65,0
+999,Product Manager,Tech,Chicago,20,12,Excel,Contract,74,1
