@@ -1,0 +1,16 @@
+Column Name,Data Type,Description
+job_id,integer,Unique identifier for each job posting.
+specialty,string,"The nursing specialty required for the position (e.g., ICU, ER, Med-Surg, Labor & Delivery, Pediatrics)."
+state,string,"The state where the job is located (e.g., California, Texas, New York, etc.)."
+contract_length,integer,"Duration of the contract in weeks (e.g., 4, 8, 13, 26 weeks)."
+pay_rate,integer,Hourly wage offered for the position ($ per hour).
+weekly_stipend,integer,Weekly stipend provided for travel and housing ($ per week).
+shift_type,string,"Type of shift required (Day, Night, Rotating)."
+hospital_type,string,"Type of hospital where the job is located (Teaching, Community, Private, Government)."
+bed_count,integer,Number of beds available in the hospital.
+experience_years,integer,Number of years of nursing experience required or preferred.
+certification,string,"Specific certification required for the role (e.g., BLS, ACLS, PALS, TNCC, CEN, CCRN)."
+agency_rating,float,Rating of the staffing agency on a scale of 3.0 to 5.0.
+travel_experience,integer,"Indicates whether the nurse has prior travel nursing experience (0 = No, 1 = Yes)."
+filled,integer,"Indicates whether the job posting was successfully filled (0 = Not filled, 1 = Filled)."
+certification_rarity,float,"The frequency of the certification in the dataset, indicating how common or rare it is."
